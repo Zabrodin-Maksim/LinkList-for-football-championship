@@ -13,7 +13,6 @@ public enum FootballClub
 }
 
 #region Třída FootballClubInfo
-// TODO: Vytvořte statickou třídu FootballClubInfo
 public static class FootballClubInfo
 {
     public const int Count = 6;
@@ -47,16 +46,5 @@ public static class FootballClubInfo
         }
     }
 }
-// TODO: Vytvořte veřejnou konstantu int Count, která vrací počet hodnot (položek) ve výčtovém typu FootballClub
-
-// TODO: Vytvořte veřejnou statickou vlastnost IEnumerable Items, která disponuje pouze operací get
-// - pomocí enumerátoru vraťte všechny položky ve výčtovém typu FootballClub (od None až po Barcelona)
-
-// TODO: Vytvořte veřejnou statickou metodu string GetName
-// - parametr FootballClub footballClub
-// - metoda vrací řetězcové vyjádření pro každou položku výčtového typu
-// None -> "", FCPorto -> "FC Porto", Arsenal -> "Arsenal", RealMadrid -> "Real Madrid"
-// Chelsea -> "Chelsea", Barcelona -> "Barcelona"
-// - jinak je vrácen prázdný řetězec
 
 #endregion

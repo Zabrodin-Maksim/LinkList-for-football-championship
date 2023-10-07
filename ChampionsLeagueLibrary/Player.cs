@@ -1,7 +1,6 @@
 ﻿namespace ChampionsLeagueLibrary;
 
 #region Třída Player
-// TODO: Vytvořte třídu Player
 public class Player
 {
     public string Name { get; set; }
@@ -42,11 +41,6 @@ public class Player
         return $"{Name} {Club} {GoalCount}";
     }
 }
-// TODO: Vytvořte vlastnosti
-// - string Name
-// - FootballClub Club
-// - int GoalCount
 
-// TODO: Vytvořte parametrický konstruktor (name, club, goalCount)
 
 #endregion
