@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "ChampionsLeagueLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ChampionsLeagueLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChampionsLeagueLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChampionsLeagueLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ChampionsLeagueLibrary/ChampionsLeagueLibrary.csproj",
+      "msbuildProject": "../ChampionsLeagueLibrary/ChampionsLeagueLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "ChampionsLeagueLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\42070\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\For Me\\Studies\\C#_Project\\exercise-07-Zabrodin-Maksim\\ChampionsLeague\\ChampionsLeague.csproj",
+      "projectName": "ChampionsLeague",
+      "projectPath": "C:\\For Me\\Studies\\C#_Project\\exercise-07-Zabrodin-Maksim\\ChampionsLeague\\ChampionsLeague.csproj",
+      "packagesPath": "C:\\Users\\42070\\.nuget\\packages\\",
+      "outputPath": "C:\\For Me\\Studies\\C#_Project\\exercise-07-Zabrodin-Maksim\\ChampionsLeague\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\42070\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\For Me\\Studies\\C#_Project\\exercise-07-Zabrodin-Maksim\\ChampionsLeagueLibrary\\ChampionsLeagueLibrary.csproj": {
+              "projectPath": "C:\\For Me\\Studies\\C#_Project\\exercise-07-Zabrodin-Maksim\\ChampionsLeagueLibrary\\ChampionsLeagueLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

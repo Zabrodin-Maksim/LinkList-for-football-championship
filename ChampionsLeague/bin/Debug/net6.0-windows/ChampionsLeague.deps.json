@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ChampionsLeague/1.0.0": {
+        "dependencies": {
+          "ChampionsLeagueLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ChampionsLeague.dll": {}
+        },
+        "resources": {
+          "agq-CM/ChampionsLeague.resources.dll": {
+            "locale": "agq-CM"
+          }
+        }
+      },
+      "ChampionsLeagueLibrary/1.0.0": {
+        "runtime": {
+          "ChampionsLeagueLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChampionsLeague/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChampionsLeagueLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,50 @@
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeague.exe
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeague.deps.json
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeague.runtimeconfig.json
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeague.dll
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeague.pdb
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\agq-CM\ChampionsLeague.resources.dll
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeagueLibrary.dll
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeagueLibrary.pdb
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.csproj.AssemblyReference.cache
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.ChampionsLeagueForm.resources
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.NejlepsiKloubForm2.resources
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.PridaniAndUpravaForm.resources
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.ChampionsLeagueForm.agq-CM.resources
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.csproj.GenerateResource.cache
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.AssemblyInfoInputs.cache
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.AssemblyInfo.cs
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.csproj.CoreCompileInputs.cache
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\agq-CM\ChampionsLeague.resources.dll
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.csproj.CopyComplete
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.dll
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\refint\ChampionsLeague.dll
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.pdb
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.genruntimeconfig.cache
+C:\Users\42070\source\repos\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ref\ChampionsLeague.dll
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeague.exe
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeague.deps.json
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeague.runtimeconfig.json
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeague.dll
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeague.pdb
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\agq-CM\ChampionsLeague.resources.dll
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeagueLibrary.dll
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\bin\Debug\net6.0-windows\ChampionsLeagueLibrary.pdb
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.csproj.AssemblyReference.cache
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.ChampionsLeagueForm.resources
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.NejlepsiKloubForm2.resources
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.PridaniAndUpravaForm.resources
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.ChampionsLeagueForm.agq-CM.resources
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.csproj.GenerateResource.cache
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.GeneratedMSBuildEditorConfig.editorconfig
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.AssemblyInfoInputs.cache
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.AssemblyInfo.cs
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.csproj.CoreCompileInputs.cache
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\agq-CM\ChampionsLeague.resources.dll
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.csproj.CopyComplete
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.dll
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\refint\ChampionsLeague.dll
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.pdb
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ChampionsLeague.genruntimeconfig.cache
+C:\For Me\Studies\C#_Project\exercise-07-Zabrodin-Maksim\ChampionsLeague\obj\Debug\net6.0-windows\ref\ChampionsLeague.dll
